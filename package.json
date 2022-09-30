@@ -32,8 +32,8 @@
     "commander": "^6.0.0",
     "compression": "^1.7.1",
     "debug": "^4.1.0",
-    "engine.io": "^3.4.2",
-    "engine.io-client": "3.3.2",
+    "engine.io": "^4.0.0",
+    "engine.io-client": "3.5.0",
     "express": "^4.17.0",
     "find-nearest-file": "^1.1.0",
     "globs-to-files": "^1.0.0",
@@ -54,7 +54,7 @@
     "thunky-with-args": "^1.0.0",
     "transient-error": "^1.0.0",
     "uuid": "^8.3.0",
-    "watchify": "^3.11.0"
+    "watchify": "^4.0.0"
   },
   "devDependencies": {
     "abstract-browser": "^1.0.0",
